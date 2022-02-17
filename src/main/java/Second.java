@@ -5,3 +5,4 @@ public class Second {
         return number;
     }
 }
+
